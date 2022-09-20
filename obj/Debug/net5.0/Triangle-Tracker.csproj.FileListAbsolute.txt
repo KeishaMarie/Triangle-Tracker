@@ -1,0 +1,15 @@
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/bin/Debug/net5.0/Triangle-Tracker.deps.json
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/bin/Debug/net5.0/Triangle-Tracker.runtimeconfig.json
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/bin/Debug/net5.0/Triangle-Tracker.runtimeconfig.dev.json
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/bin/Debug/net5.0/Triangle-Tracker.dll
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/bin/Debug/net5.0/ref/Triangle-Tracker.dll
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/bin/Debug/net5.0/Triangle-Tracker.pdb
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.csproj.AssemblyReference.cache
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.AssemblyInfoInputs.cache
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.AssemblyInfo.cs
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.csproj.CoreCompileInputs.cache
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.dll
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/obj/Debug/net5.0/ref/Triangle-Tracker.dll
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.pdb
+/Users/peckii/Desktop/Triangle-Tracker/Triangle-Tracker/obj/Debug/net5.0/Triangle-Tracker.genruntimeconfig.cache
